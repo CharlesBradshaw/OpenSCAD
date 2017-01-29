@@ -1,5 +1,5 @@
 # OpenSCAD
-3D Models generated via code. To edit code download OpenScad (http://www.openscad.org). To 3D print, download STL files
+3D Models generated via code. To edit code, view scad files and download OpenScad (http://www.openscad.org). To 3D print, download STL files.
 
 
 Aperature <br>
